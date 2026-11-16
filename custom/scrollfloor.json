@@ -1,0 +1,728 @@
+{
+  "__comment": "Designed by Adler_DeC with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "Box2",
+      "from": [
+        8.194799,
+        5.9421,
+        1.5
+      ],
+      "to": [
+        13.1948,
+        10.9421,
+        14.5
+      ],
+      "rotation": {
+        "origin": [
+          -7.375,
+          3.375,
+          1.5
+        ],
+        "axis": "z",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            8.5,
+            0,
+            6
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            6,
+            6.5,
+            8.5
+          ],
+          "texture": "#texture",
+          "rotation": 270
+        },
+        "north": {
+          "uv": [
+            3,
+            11.5,
+            0,
+            8.5
+          ],
+          "texture": "#texture",
+          "rotation": 270
+        },
+        "south": {
+          "uv": [
+            0,
+            11.5,
+            3,
+            8.5
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "west": {
+          "uv": [
+            6.5,
+            8.5,
+            0,
+            6
+          ],
+          "texture": "#texture",
+          "rotation": 180
+        },
+        "east": {
+          "uv": [
+            0,
+            6,
+            6.5,
+            8.5
+          ],
+          "texture": "#texture",
+          "rotation": 180
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        2.766,
+        5.4385,
+        1.5
+      ],
+      "to": [
+        11.266,
+        5.4395,
+        14.5
+      ],
+      "rotation": {
+        "origin": [
+          -4.625,
+          8.5,
+          1.5
+        ],
+        "axis": "z",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            1.5,
+            6.5,
+            5.5
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            1.5,
+            6.5,
+            5.5
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        -8.6227,
+        0.3214,
+        1.5
+      ],
+      "to": [
+        -0.1226997,
+        0.3224,
+        14.5
+      ],
+      "rotation": {
+        "origin": [
+          -6,
+          6,
+          1.5
+        ],
+        "axis": "z",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            6,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            6,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        -12.359,
+        5.4385,
+        1.5
+      ],
+      "to": [
+        -3.858999,
+        5.4395,
+        14.5
+      ],
+      "rotation": {
+        "origin": [
+          -19.75,
+          8.5,
+          1.5
+        ],
+        "axis": "z",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            16,
+            6.5,
+            12
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            16,
+            6.5,
+            12
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        9,
+        0.125,
+        -5.375
+      ],
+      "to": [
+        16,
+        0.126,
+        2.625
+      ],
+      "rotation": {
+        "origin": [
+          9,
+          0.125,
+          -5.375
+        ],
+        "axis": "y",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            5.5,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            5.5,
+            4.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        16,
+        0.125,
+        -5.375
+      ],
+      "to": [
+        23,
+        0.126,
+        2.625
+      ],
+      "rotation": {
+        "origin": [
+          9,
+          0.125,
+          -5.375
+        ],
+        "axis": "y",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            5.5,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            5.5,
+            4.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        11,
+        0,
+        -6
+      ],
+      "to": [
+        18,
+        0.001,
+        2
+      ],
+      "rotation": {
+        "origin": [
+          11,
+          0,
+          -6
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            5.5,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            5.5,
+            4.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box3",
+      "from": [
+        18,
+        0,
+        -6
+      ],
+      "to": [
+        25,
+        0.001,
+        2
+      ],
+      "rotation": {
+        "origin": [
+          11,
+          0,
+          -6
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            5.5,
+            6.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            0,
+            5.5,
+            4.5,
+            2
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            9.5,
+            8.999001,
+            16,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.999001,
+            6.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            8.999001,
+            14.5,
+            9
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        93,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        1.3912
+      ],
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        93,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        1.3912
+      ],
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        85,
+        5,
+        111
+      ],
+      "translation": [
+        0,
+        -2.086,
+        -5.565
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        85,
+        5,
+        111
+      ],
+      "translation": [
+        0,
+        -2.086,
+        -5.565
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        1.0771,
+        1.0771,
+        1.0771
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    }
+  }
+}

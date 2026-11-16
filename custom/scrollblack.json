@@ -1,0 +1,156 @@
+{
+  "__comment": "Designed by Adler_DeC with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "Box2",
+      "from": [
+        5.5,
+        5,
+        1.5
+      ],
+      "to": [
+        10.5,
+        10,
+        14.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            16,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "up": {
+          "uv": [
+            9.5,
+            12.5,
+            16,
+            10
+          ],
+          "texture": "#texture",
+          "rotation": 90
+        },
+        "north": {
+          "uv": [
+            6,
+            8.5,
+            9,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            9,
+            8.5,
+            6,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            10,
+            16,
+            12.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            10,
+            16,
+            12.5
+          ],
+          "texture": "#texture",
+          "rotation": 180
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        93,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        1.3912
+      ],
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        93,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        1.3912
+      ],
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        85,
+        5,
+        111
+      ],
+      "translation": [
+        0,
+        -2.086,
+        -5.565
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        85,
+        5,
+        111
+      ],
+      "translation": [
+        0,
+        -2.086,
+        -5.565
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        1.0771,
+        1.0771,
+        1.0771
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.6521,
+        0.6521,
+        0.6521
+      ]
+    }
+  }
+}

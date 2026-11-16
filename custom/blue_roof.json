@@ -1,0 +1,317 @@
+{
+  "__comment": "Designed by Adler_DeC with Cubik Studio - https://cubik.studio",
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        11.0004,
+        -4.5
+      ],
+      "to": [
+        16,
+        13.0004,
+        11.5
+      ],
+      "rotation": {
+        "origin": [
+          0,
+          11,
+          11.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            12,
+            4,
+            16
+          ],
+          "texture": "#atlas"
+        },
+        "up": {
+          "uv": [
+            0,
+            12,
+            4,
+            8
+          ],
+          "texture": "#atlas"
+        },
+        "north": {
+          "uv": [
+            8,
+            11.5,
+            12,
+            12
+          ],
+          "texture": "#atlas"
+        },
+        "south": {
+          "uv": [
+            8,
+            11,
+            12,
+            11.5
+          ],
+          "texture": "#atlas"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            12,
+            11
+          ],
+          "texture": "#atlas"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            12,
+            10.5
+          ],
+          "texture": "#atlas"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        11,
+        11.5
+      ],
+      "to": [
+        16,
+        13,
+        18.5
+      ],
+      "rotation": {
+        "origin": [
+          0,
+          11,
+          11.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            14,
+            12,
+            16
+          ],
+          "texture": "#atlas"
+        },
+        "up": {
+          "uv": [
+            11.5,
+            16,
+            15.5,
+            14
+          ],
+          "texture": "#atlas"
+        },
+        "north": {
+          "uv": [
+            8,
+            9.5,
+            12,
+            10
+          ],
+          "texture": "#atlas"
+        },
+        "south": {
+          "uv": [
+            8,
+            9,
+            12,
+            9.5
+          ],
+          "texture": "#atlas"
+        },
+        "west": {
+          "uv": [
+            8,
+            8.5,
+            10,
+            9
+          ],
+          "texture": "#atlas"
+        },
+        "east": {
+          "uv": [
+            8,
+            8,
+            10,
+            8.5
+          ],
+          "texture": "#atlas"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        10.0004,
+        -4.5
+      ],
+      "to": [
+        16,
+        11.0004,
+        11.5
+      ],
+      "rotation": {
+        "origin": [
+          0,
+          11,
+          11.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            12,
+            8,
+            16
+          ],
+          "texture": "#atlas"
+        },
+        "up": {
+          "uv": [
+            4,
+            8,
+            8,
+            12
+          ],
+          "texture": "#atlas"
+        },
+        "north": {
+          "uv": [
+            12,
+            11.75,
+            16,
+            12
+          ],
+          "texture": "#atlas"
+        },
+        "south": {
+          "uv": [
+            12,
+            11.5,
+            16,
+            11.75
+          ],
+          "texture": "#atlas"
+        },
+        "west": {
+          "uv": [
+            12,
+            11.25,
+            16,
+            11.5
+          ],
+          "texture": "#atlas"
+        },
+        "east": {
+          "uv": [
+            12,
+            11,
+            16,
+            11.25
+          ],
+          "texture": "#atlas"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        10,
+        11.5
+      ],
+      "to": [
+        16,
+        11,
+        18.5
+      ],
+      "rotation": {
+        "origin": [
+          0,
+          11,
+          11.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            12,
+            12,
+            14
+          ],
+          "texture": "#atlas"
+        },
+        "up": {
+          "uv": [
+            12,
+            12,
+            16,
+            14
+          ],
+          "texture": "#atlas"
+        },
+        "north": {
+          "uv": [
+            12,
+            10.75,
+            16,
+            11
+          ],
+          "texture": "#atlas"
+        },
+        "south": {
+          "uv": [
+            12,
+            10.5,
+            16,
+            10.75
+          ],
+          "texture": "#atlas"
+        },
+        "west": {
+          "uv": [
+            10,
+            8.75,
+            12,
+            9
+          ],
+          "texture": "#atlas"
+        },
+        "east": {
+          "uv": [
+            10,
+            8.5,
+            12,
+            8.75
+          ],
+          "texture": "#atlas"
+        }
+      }
+    }
+  ]
+}
